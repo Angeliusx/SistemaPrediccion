@@ -1,0 +1,14 @@
+Buenas tardes Señores [RAZON_SOCIAL], reciba un cordial saludo del estudio Fernandez Núñez Asociados somos el estudio encargados de llevar la cobranza de [TIPO_AFP] AFP, debido a que tiene pendiente de pago el periodo a nuestro cargo [PERIODO] y los gastos administrativos según Decreto Supremo 004-98-EF, cuyo tenor es “En los casos de demora en el pago de los aportes, las AFP están obligadas a iniciar contra el empleador las acciones legales a que se hace referencia en los Artículos 37 y 38 de la Ley “(…) Las AFP están facultades para repetir contra el empleador los GASTOS en los que incurran en el procedimiento de cobro de aportes”
+ 
+Los pagos tendrá que cancelarlo de la siguiente forma: 
+PARA EL PAGO DE PLANILLAS que asciende  a S/.[TOTAL_GENERAL]
+
+le brindo  los pasos a seguir para poder visualizar las obligaciones que aun registran pendiente: 
+-Ingresar a www.afpnet.com.pe
+-Ingresar RUC, Usuario y Clave.
+-Obligaciones de pago -> Por devengue
+ 
+PARA EL PAGO DE GASTOS ADMINISTRATIVOS
+El importe de S/[GASTOS] debe ser abonado a la cuenta BCP [NUMERO_CUENTA] O CCI [CCI_CUENTA] a nombre de [ASESOR]. Se emitirá un comprobante por el monto abonado. Una vez cancelado le pido enviar las fotos de los váuchers (planillas y gastos) por este medio o vía WhatsApp para su debida acreditación, cesar la cobranza y evitar  una demanda judicial en contra de su empresa. Quedo a la espera. 
+ 
+Para una atención personalizada o apoyarlo en brindarle facilidades de pago no dude en comunicarse al teléfono [TELEFONO_ASESOR] o al correo: [CORREO_ASESOR]
